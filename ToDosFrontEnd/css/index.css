@@ -1,0 +1,6 @@
+.table table-bordered tr.highlight td {
+    background-color: rgb(54, 57, 237);
+}
+td.highlight{
+    background-color: rgb(54, 57, 237);
+}
